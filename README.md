@@ -1,4 +1,4 @@
-## sudoku game generator coded in python3.
+## sudoku game generator
 
 ### How to play
 1. Download the sudoku.py script to a local directory in your PC/Mac. 
